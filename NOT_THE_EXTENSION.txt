@@ -1,0 +1,9 @@
+This GitHub folder is not the Chrome extension.
+
+It has no manifest.json. Chrome will reject it with
+"Manifest file is missing or unreadable".
+
+Download select-more-chrome-*.zip from:
+https://github.com/martialsystems/select-more/releases/latest
+
+Unzip that file. Load unpacked the folder that contains manifest.json.
